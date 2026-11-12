@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="wd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E473B"/><stop offset="1" stop-color="#4A3524"/>
+    </linearGradient>
+    <linearGradient id="ws" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8A6A52"/><stop offset="1" stop-color="#6E473B"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="#EDE2D1"/>
+  <rect x="36" y="46" width="70" height="140" rx="10" fill="#E7DBC6"/>
+  <rect y="240" width="400" height="60" fill="#E2D3BD"/>
+  <ellipse cx="200" cy="260" rx="160" ry="10" fill="#291C0E" opacity=".12"/>
+  <rect x="60" y="80" width="180" height="56" rx="12" fill="#4A3524"/>
+  <rect x="70" y="94" width="52" height="30" rx="8" fill="#CFC2B0"/>
+  <rect x="128" y="94" width="52" height="30" rx="8" fill="#CFC2B0"/>
+  <rect x="186" y="94" width="42" height="30" rx="8" fill="#CFC2B0"/>
+  <rect x="48" y="100" width="20" height="66" rx="10" fill="#43301F"/>
+  <rect x="232" y="100" width="20" height="66" rx="10" fill="#43301F"/>
+  <rect x="56" y="128" width="188" height="34" rx="8" fill="#6E473B"/>
+  <rect x="64" y="162" width="8" height="20" rx="3" fill="#291C0E"/>
+  <rect x="228" y="162" width="8" height="20" rx="3" fill="#291C0E"/>
+  <rect x="170" y="150" width="192" height="54" rx="12" fill="url(#wd)"/>
+  <rect x="182" y="162" width="80" height="30" rx="8" fill="#D9CCB9"/>
+  <rect x="270" y="162" width="80" height="30" rx="8" fill="#D9CCB9"/>
+  <rect x="196" y="156" width="22" height="22" rx="6" fill="#BEB5A9"/>
+  <rect x="158" y="168" width="22" height="64" rx="11" fill="#4A3524"/>
+  <rect x="352" y="168" width="22" height="64" rx="11" fill="#4A3524"/>
+  <rect x="166" y="196" width="200" height="34" rx="8" fill="url(#ws)"/>
+  <rect x="176" y="230" width="9" height="26" rx="3" fill="#291C0E"/>
+  <rect x="347" y="230" width="9" height="26" rx="3" fill="#291C0E"/>
+</svg>

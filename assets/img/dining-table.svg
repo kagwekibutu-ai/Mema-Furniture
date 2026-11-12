@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="wt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8A6A52"/><stop offset="1" stop-color="#6E473B"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="#F1E9DD"/>
+  <rect y="242" width="400" height="58" fill="#E4D5C0"/>
+  <ellipse cx="200" cy="252" rx="130" ry="9" fill="#291C0E" opacity=".13"/>
+  <rect x="198" y="22" width="3" height="30" fill="#43301F"/>
+  <path d="M170 74a30 30 0 0 1 60 0l0 4-60 0z" fill="#6E473B"/>
+  <ellipse cx="200" cy="84" rx="26" ry="7" fill="#E1D4C2" opacity=".55"/>
+  <rect x="96" y="156" width="208" height="14" rx="7" fill="url(#wt)"/>
+  <rect x="108" y="170" width="11" height="78" rx="4" fill="#4A3524"/>
+  <rect x="281" y="170" width="11" height="78" rx="4" fill="#4A3524"/>
+  <ellipse cx="150" cy="142" rx="12" ry="16" fill="#BEB5A9"/>
+  <rect x="145" y="120" width="10" height="14" rx="4" fill="#BEB5A9"/>
+  <path d="M150 122c-2-9-9-13-15-14M150 122c1-9 8-13 14-14" stroke="#A78D78" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="252" cy="148" rx="22" ry="7" fill="#6E473B"/>
+  <circle cx="243" cy="143" r="6" fill="#A78D78"/>
+  <circle cx="256" cy="141" r="7" fill="#BEB5A9"/>
+  <circle cx="264" cy="145" r="5" fill="#8A6A52"/>
+</svg>
